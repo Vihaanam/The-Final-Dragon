@@ -5,7 +5,7 @@ body {
 
 #welcome {
     text-align: center;
-    background: linear-gradient(270deg, skyblue 0%, skyblue 40%, #fbf07b 50%, lightgreen 60%, lightgreen 100%);
+    background: maroon;
     position: absolute;
     height: 800px;
     width: 100%;
